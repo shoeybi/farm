@@ -22,8 +22,7 @@ improvement. This library is an essential component for the
 (WE SHOULD REPLACE THIS WITH REFERENCE TO OUR PAPER) and enabled the ASR model 
 to run real time on ARM processors.
 
-If you use the code in your research, please cite the following paper. (ADD 
-CITATION HERE)
+If you use the code in your research, please cite [this paper](https://arxiv.org/abs/1710.09026).
 
 # Public Interface
 
